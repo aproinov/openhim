@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Sound of text Project"
-copyright = "2023, Sound of text team"
-author = "Sound of text team"
+project = "Openhim Project"
+copyright = "2023, Openhim team"
+author = "Openhim team"
 
 
 # -- General configuration ---------------------------------------------------
