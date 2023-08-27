@@ -39,10 +39,10 @@ We believe in the power of open collaboration. If you wish to contribute:
 Community
 ---------
 
-Join our vibrant community on [Our Forum](https://path_to_opencompilation_forum). Here, discussions about new tools, updates, and best practices take place. Your feedback and insights can shape the future of Open Compilation!
+Join our vibrant community on `Our Forum <https://openhim.rtfd.io>`_. Here, discussions about new tools, updates, and best practices take place. Your feedback and insights can shape the future of Open Compilation!
 
 License
 -------
 
-Open Compilation is licensed under the [MIT License](https://path_to_license_page).
+Open Compilation is licensed under the [MIT License](https://opensource.org/license/mit/).
 
