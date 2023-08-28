@@ -44,5 +44,5 @@ Join our vibrant community on `Our Forum <https://openhim.rtfd.io>`_. Here, disc
 License
 -------
 
-Open Compilation is licensed under the [MIT License](https://opensource.org/license/mit/).
+Open Compilation is licensed under the `MIT License <https://opensource.org/license/mit/>`_.
 
